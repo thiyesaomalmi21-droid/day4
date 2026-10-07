@@ -31,3 +31,21 @@
      .textcolour{
         color: brown;
      }
+
+     .even{
+        background-color: burlywood;
+     }
+
+     .odd{
+       background-color: rgb(107, 107, 209);
+     }
+
+     #newtitle{
+        background-color: rgb(29, 240, 170);
+       color: rgb(40, 80, 67);
+
+     }
+
+     *{
+        background-color: black;
+     }
