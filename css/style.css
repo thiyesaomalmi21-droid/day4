@@ -1,13 +1,15 @@
+ @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
  h1{
     text-align: center;
     background-color: blanchedalmond ;
     color: brown;
+    font-family: "Dancing Script", cursive;
                
      }
 
      h2{
         text-align: left;
-        background-color: blueviolet;
+        background-color: #fd79a8;
         color: aliceblue;
      
      }
@@ -26,6 +28,7 @@
      .text{
         text-align: center;
        
+       
      }
 
      .textcolour{
@@ -33,11 +36,13 @@
      }
 
      .even{
-        background-color: burlywood;
+        background-color: #FDA7DF;
+        font-family: cursive;
      }
 
      .odd{
        background-color: rgb(107, 107, 209);
+       font-family: "Dancing Script", cursive;
      }
 
      #newtitle{
