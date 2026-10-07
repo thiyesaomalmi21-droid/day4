@@ -3,4 +3,31 @@
     background-color: blanchedalmond ;
     color: brown;
                
-            }
+     }
+
+     h2{
+        text-align: left;
+        background-color: blueviolet;
+        color: aliceblue;
+     
+     }
+
+     .hero{
+        text-align: center;
+        background-color: rgb(223, 148, 221);
+        color: azure;
+     }
+
+     .background{
+        background-color: burlywood;
+     
+     }
+
+     .text{
+        text-align: center;
+       
+     }
+
+     .textcolour{
+        color: brown;
+     }
